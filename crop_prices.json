@@ -1,0 +1,5 @@
+[
+  {"Crop":"Wheat","State":"Maharashtra","District":"Pune","MinPrice":2100,"MaxPrice":2300},
+  {"Crop":"Rice","State":"Maharashtra","District":"All","MinPrice":2500,"MaxPrice":2800},
+  {"Crop":"Sugarcane","State":"Maharashtra","District":"Pune","MinPrice":2700,"MaxPrice":3000}
+]
